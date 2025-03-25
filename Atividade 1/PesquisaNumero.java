@@ -1,5 +1,4 @@
 /* Programe uma classe chamada PesquisaNumero que crie um array com 15 números inteiros aleatórios entre 1 e 100. Em seguida, o programa deve solicitar ao usuário um número para pesquisar no array. O programa deve informar se o número foi encontrado ou não, e em caso positivo, em quais posições ele aparece. */
-/* Discente: Gabriel Furtado Carneiro Leão (200469079) */
 
 import java.util.Scanner;
 

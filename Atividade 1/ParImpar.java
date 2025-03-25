@@ -1,5 +1,4 @@
 /* Crie uma classe chamada ParImpar que gere um array com 20 números inteiros aleatórios entre 1 e 50. O programa deve separar os números em dois novos arrays: um contendo apenas os números pares e outro contendo apenas os números ímpares. Ao final, exiba os três arrays e a quantidade de números em cada um dos novos arrays. */
-/* Discente: Gabriel Furtado Carneiro Leão (200469079) */
 
 public class ParImpar {
     public static void main(String[] args) {

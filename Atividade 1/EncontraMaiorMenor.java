@@ -1,5 +1,4 @@
 /* Desenvolva uma classe chamada EncontraMaiorMenor que solicite ao usuário 10 números inteiros. O programa deve armazenar esses números em um array, encontrar o maior e o menor valor inserido, e exibir esses valores junto com suas posições no array. */
-/* Discente: Gabriel Furtado Carneiro Leão (200469079) */
 
 import java.util.Scanner;
 

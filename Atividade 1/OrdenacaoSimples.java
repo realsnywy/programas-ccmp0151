@@ -1,5 +1,4 @@
 /* Desenvolva uma classe chamada OrdenacaoSimples que permita ao usuário inserir 8 nomes de pessoas. O programa deve armazenar os nomes em um array, ordená-los em ordem alfabética e exibir a lista antes e depois da ordenação. */
-/* Discente: Gabriel Furtado Carneiro Leão (200469079) */
 
 import java.util.Scanner;
 

@@ -1,5 +1,4 @@
 /* Crie uma classe chamada MediaNotas que permita ao usuário inserir 5 notas de alunos. O programa deve calcular e exibir a média das notas, bem como mostrar quantas notas estão acima da média calculada. Utilize um array para armazenar as notas dos alunos. */
-/* Discente: Gabriel Furtado Carneiro Leão (200469079) */
 
 import java.util.Scanner;
 
